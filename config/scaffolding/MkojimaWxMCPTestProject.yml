@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/kmei428
   gitUsername: kmei428
   gitBranch: main
+- name: WxMCPServer
+  gitServerName: mkojima_github
+  gitUrl: https://github.com/IBM
+  gitUsername: kmei428
+  gitBranch: main
