@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MkojimaWxMCPTestProject
+  gitServerName: mkojima_github
+  gitUrl: https://github.com/kmei428
+  gitUsername: kmei428
+  gitBranch: main
